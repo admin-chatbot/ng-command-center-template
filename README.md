@@ -1,4 +1,9 @@
-# NG Command Center
+# NG Command Center Full Tamplates
+
+## First Time
+
+For First time please run npm install
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
 
